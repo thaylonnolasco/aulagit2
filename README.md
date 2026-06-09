@@ -10,3 +10,5 @@ repositorio de teste da aula 2 sobre GIT.
 ## titulo 1
 
 lorem ipsum dolor sit amet...
+
+leia a [parte I](parte1.md)
